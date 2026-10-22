@@ -1,6 +1,6 @@
 # 候选片目与影片资料
 
-这里保存研究候选和来源链接，不承诺已经取得影片文件、中文字幕、适合的版本或公开放映条件。下列作品均需在正式排期前核实。暂译片名保留外文名便于检索。
+这里整理我们想看、想讨论的电影，以及相关的制作资料、访谈和研究线索。片名同时保留外文名，方便查找。
 
 ## A. 散文电影、视频论文与桌面研究
 
@@ -17,7 +17,7 @@
 
 | 年份 | 作品 | 导演 | 资料入口与制作事实 |
 | --- | --- | --- | --- |
-| 2011 | This Is Not a Film《这不是一部电影》 | Jafar Panahi、Mojtaba Mirtahmasb | [发行方](https://kinolorberedu.com/film/this-is-not-a-film-dvd-download)：部分使用iPhone，不是全片手机拍摄。 |
+| 2011 | This Is Not a Film《这不是一部电影》 | Jafar Panahi、Mojtaba Mirtahmasb | [发行方](https://kinolorberedu.com/film/this-is-not-a-film-dvd-download)：使用数字摄影机与iPhone拍摄。 |
 | 2015 | Tangerine《橘色》 | Sean Baker | [导演与主演访谈](https://www.interviewmagazine.com/film/sean-baker-mya-taylor-tangerine-sundance-2015)：手机、附加设备与后期处理。 |
 | 2019 | Selfie《自拍》（暂译） | Agostino Ferrente | [意大利电影学院](https://www.daviddidonatello.it/motore-di-ricerca/schedasola.php?idfilm=10706&idsoggetto=5723&vinfilm=Selfie)：导演指导下由少年自拍。 |
 | 2019 | Midnight Traveler《午夜行者》 | Hassan Fazili | [电影节资料](https://ff.hrw.org/film/midnight-traveler/)：三部手机、家庭成员参与拍摄。 |
@@ -40,8 +40,6 @@
 
 | 年份 | 作品 | 导演 | 资料入口与问题 |
 | --- | --- | --- | --- |
-| 2022 | 《目中无人》 | 杨秉佳 | [爱奇艺当年发行公告](https://www.iqiyi.com/kszt/news2022052802.html)：网络电影发行条件与动作类型创作。不能因网络发行而归为手机拍摄。 |
+| 2022 | 《目中无人》 | 杨秉佳 | [爱奇艺当年发行公告](https://www.iqiyi.com/kszt/news2022052802.html)：网络发行与动作类型创作。 |
 
-以上共20个作品或系列条目。它们是研究候选，不是已经确定的第一季放映单。
-
-问题上的承接、同一作者的变化，以及尚不能确认的影响关系，见[第一部分时间线](../项目/第一部分时间线.md)。实际看片后使用[影片研究卡](../模板/影片研究卡.md)补充证据，允许替换候选。
+目前共20个作品或系列条目。接下来的看片和讨论会继续补充这份片目，也会帮助我们发现作品之间新的联系。

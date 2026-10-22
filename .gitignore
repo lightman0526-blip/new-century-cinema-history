@@ -1,5 +1,4 @@
-# 本地第三方文献、影片和打包文件默认不进入公开仓库。
-# 指定资源可按维护者的明确决定逐个纳入。
+# 影音、电子书和压缩文件；已收录的PDF在下方单列。
 *.[pP][dD][fF]
 *.[eE][pP][uU][bB]
 *.[mM][oO][bB][iI]
@@ -39,7 +38,7 @@ __pycache__/
 .venv/
 node_modules/
 
-# 按维护者2026-10-22的明确要求，公开以下五份PDF。
+# 已收录的五份PDF。
 !/文献/Part1：新世纪的电影形式/Essays on the Essay Film ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf
 !/文献/Part1：新世纪的电影形式/Smartphone Filmmaking Theory and Practice (Max Schleser) (z-library.sk, 1lib.sk, z-lib.sk).pdf
 !/文献/Part1：新世纪的电影形式/Understanding Machinima Essays on Filmmaking in Virtual Worlds (Jenna Ng) (z-library.sk, 1lib.sk, z-lib.sk).pdf
