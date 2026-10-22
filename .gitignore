@@ -1,0 +1,40 @@
+# 本地第三方文献、影片和打包文件默认不进入公开仓库。
+# 已取得再分发许可的文件，可在核实后单独调整规则。
+*.[pP][dD][fF]
+*.[eE][pP][uU][bB]
+*.[mM][oO][bB][iI]
+*.[aA][zZ][wW]*
+*.[dD][jJ][vV][uU]
+*.[mM][pP]4
+*.[mM][kK][vV]
+*.[mM][oO][vV]
+*.[aA][vV][iI]
+*.[wW][mM][vV]
+*.[mM]4[vV]
+*.[tT][sS]
+*.[iI][sS][oO]
+*.[zZ][iI][pP]
+*.[rR][aA][rR]
+*.7z
+
+# 工作文件、导出物和个人资料。
+/.local/
+/tmp/
+/output/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+__pycache__/
+.venv/
+node_modules/
