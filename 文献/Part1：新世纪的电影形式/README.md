@@ -2,7 +2,7 @@
 
 保留现有本地目录名称，研究范围暂称“影像创作实践”，包含形式、创作关系、人物与社会经验等问题。
 
-此目录的五份PDF保留在原处，但由 `.gitignore` 排除，不进入公开提交。公开索引如下。
+此目录的五份PDF已按维护者要求公开。书目及来源如下；下载入口列在表格之后。第三方文献及双语阅读PDF中的原文、配图保留各自权利，不纳入项目的CC BY-SA许可。
 
 | 文献 | 版本信息 | 公开来源 | 项目使用方向 |
 | --- | --- | --- | --- |
@@ -13,3 +13,13 @@
 | In Defense of the Poor Image／《为贫穷影像辩护》 | Hito Steyerl；e-flux journal #10，2009年11月。本地另存逐段英中对照阅读PDF | [英文原文](https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image) | 影像质量、流通、价值与再使用。双语PDF含第三方原文与配图，再分发条件尚未确认。 |
 
 更多文章及相关著作见[总目录](../README.md)。项目中的中文片名或文献标题，除明确列出已出版中译本者外，只作为检索和阅读译名使用。
+
+## PDF文件
+
+- [Essays on the Essay Film](Essays%20on%20the%20Essay%20Film%20%28%20etc.%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.pdf)（1.3 MiB）
+- [Smartphone Filmmaking: Theory and Practice](Smartphone%20Filmmaking%20Theory%20and%20Practice%20%28Max%20Schleser%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.pdf)（69.2 MiB）
+- [Understanding Machinima: Essays on Filmmaking in Virtual Worlds](Understanding%20Machinima%20Essays%20on%20Filmmaking%20in%20Virtual%20Worlds%20%28Jenna%20Ng%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.pdf)（3.5 MiB）
+- [为贫穷影像辩护：逐段英中对照，含配图](%E4%B8%BA%E8%B4%AB%E7%A9%B7%E5%BD%B1%E5%83%8F%E8%BE%A9%E6%8A%A4_%E9%80%90%E6%AE%B5%E8%8B%B1%E4%B8%AD%E5%AF%B9%E7%85%A7_%E5%90%AB%E9%85%8D%E5%9B%BE.pdf)（3.2 MiB）
+- [私人摄像机：主观电影和散文影片](%E7%A7%81%E4%BA%BA%E6%91%84%E5%83%8F%E6%9C%BA%20%E4%B8%BB%E8%A7%82%E7%94%B5%E5%BD%B1%E5%92%8C%E6%95%A3%E6%96%87%E5%BD%B1%E7%89%87%20%28%EF%BC%88%E6%84%8F%EF%BC%89%E5%8A%B3%E6%8B%89%C2%B7%E6%8B%89%E6%96%AF%E5%8D%A1%E7%BD%97%E5%88%A9%EF%BC%88LauraRascaroli%EF%BC%89%E8%91%97%20etc.%29%20%28z-library.sk%2C%201lib.sk%2C%20z-lib.sk%29.pdf)（50.7 MiB）
+
+如GitHub没有直接显示PDF预览，可在文件页面选择下载。
