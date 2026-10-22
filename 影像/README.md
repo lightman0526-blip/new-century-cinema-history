@@ -31,7 +31,7 @@
 | 1996 | Diary of a Camper | United Ranger Films | [游戏博物馆的历史介绍](https://www.museumofplay.org/games/quake/)；[作品年份与制作团体](https://www.guinnessworldrecords.com/world-records/88101-first-example-of-machinima-animation)。早期Quake叙事。 |
 | 2003起 | Red vs. Blue《红蓝大作战》早期集数 | Burnie Burns／Rooster Teeth | [创作者访谈存档](https://bnetarchive.haloman30.com/news/contentf825.html?cid=1678&type=topnews)：对白喜剧、连载与社群。 |
 | 2018 | Operation Jane Walk | Robin Klengel、Leonhard Müllner | [官方](https://totalrefusal.com/home/operation-jane-walk)：在The Division中导览城市。 |
-| 2020 | How to Disappear《如何消失》（暂译） | Total Refusal：Robin Klengel、Leonhard Müllner、Michael Stumpf | [官方](https://totalrefusal.com/home/how-to-disappear)：Battlefield V与拒战。 |
+| 2020 | How to Disappear《如何消失》（暂译） | Total Refusal：Robin Klengel、Leonhard Müllner、Michael Stumpf | [B站观看](https://www.bilibili.com/video/BV14Xc5zTEca/)；[官方资料](https://totalrefusal.com/home/how-to-disappear)。Battlefield V与拒战。 |
 | 2022 | Hardly Working，短片版 | Total Refusal：Susanna Flock、Robin Klengel、Leonhard Müllner、Michael Stumpf | [官方](https://totalrefusal.com/home/hardly-working)：NPC劳动；另有2021年装置版。 |
 | 2023 | Knit’s Island | Ekiem Barbier、Guilhem Causse、Quentin L’helgoualc’h | [影片资料](https://noisefilmpr.com/projects/knits-island)；[导演陈述](https://www.yidff.jp/2023/cat011/23c019-e.html)。DayZ中的社会交往。 |
 | 2024 | Grand Theft Hamlet《侠盗哈姆雷特》（暂译） | Pinny Grylls、Sam Crane | [英国文化教育协会](https://filmsandfestivals.britishcouncil.org/projects/grand-theft-hamlet)：游戏内拍摄的排演纪录片。 |
